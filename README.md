@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdullahAlTareq
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/abdullah-al-tareq-0313a6211/
 
 <!---
