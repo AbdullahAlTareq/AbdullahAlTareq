@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdullahAlTareq
-- 👀 I’m interested in Data Science
+- 👀 I’m a Data Analyst enthusiast
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/abdullah-al-tareq-0313a6211/
